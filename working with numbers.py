@@ -15,13 +15,13 @@ print(e)                                                    #CONSTANT - Euler's 
 print(pi)                                                   #CONSTANT - pi
 print(10e2)                                                 #10 x 10^2
 print(sqrt(64))                                             #SQUARE ROOT OF A NUMBER
-print(pow(4,5))                                       #EXPONENT FXN - pow(base, power)
+print(pow(4,5))                                             #EXPONENT FXN - pow(base, power)
 print(factorial(10))                                        #FACTORIAL FUNCTION
 print(ceil(3.14159))                                        #CEILING VALUE - smallest integral value greater than the number
 print(floor(3.14159))                                       #FLOOR VALUE - greatest integral value smaller than the number
 print(round(3.14159))                                       #ROUNDS OF THE NUMBER
-print(gcd(3,4))                                     #GCD OF TWO INTEGERS
-print(log(100000,10))                               #LOGARITHM FXN - log(argument, base)
+print(gcd(3,4))                                             #GCD OF TWO INTEGERS
+print(log(100000,10))                                       #LOGARITHM FXN - log(argument, base)
 print(sin(pi/2))                                            #SINE VALUE - sin(angle)
 print(cos(pi))                                              #COSINE VALUE - cos(angle)
 print(tan(pi/4))                                            #TANGENT VALUE - tan(angle)
